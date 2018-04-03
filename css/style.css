@@ -1,0 +1,16 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+}
+
+form {
+	max-width: 330px;
+	margin: auto;
+}
+
+box-width {
+	width: 100%;
+}
