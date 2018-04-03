@@ -5,9 +5,23 @@ html, body {
 body {
 	display: flex;
 }
-
+/*
+form {
+	width: 100%;
+	max-width: 330px;
+	padding: 0 15px;
+}*/
 input {
-	display: block;
+	max-width: 330px;
+}
+
+.block-input {
+	width: 100%;
+}
+
+
+label {
+	display: inline;
 }
 
 main {
