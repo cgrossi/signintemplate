@@ -6,6 +6,10 @@ body {
 	display: flex;
 }
 
+input {
+	display: block;
+}
+
 main {
 	margin: auto;
 }
